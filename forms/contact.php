@@ -27,9 +27,9 @@
   
   $contact->smtp = array(
     'host' => 'abdilahazam.2021@student.uny.ac.id',
-    'username' => 'Abdilah Azam',
+    'username' => '20. Abdilah Azam',
     'password' => 'abdilahazam10',
-    'port' => '587'
+    'port' => '993'
   );
   
 
